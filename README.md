@@ -1,5 +1,24 @@
 # agentic-ai-portfolio
+## 📂 Projects
 
+### ✅ Project 1: AI Task Automation Agent
+📁 [LangGraph Task Automation Agent](./langgraph-task-automation-agent)
+
+Demonstrates planner–executor–validator architecture with tool execution and retry logic.
+
+---
+
+### ✅ Project 2: AI Decision-Making Agent
+📁 [LangGraph Decision-Making Agent](./langgraph-decision-making-agent)
+
+Shows rule-based AI decisions with explainability and validation.
+
+---
+
+### ✅ Project 3: Reliable AI Assistant with Guardrails
+📁 [LangGraph Reliable AI Assistant](./langgraph-reliable-ai-assistant)
+
+Focuses on validation-first AI assistants with self-correction and guardrails.
 🧠 Agentic AI Systems Portfolio (LangGraph)
 This repository contains three production‑style Agentic AI projects built using LangGraph.
 Each project demonstrates a core capability required to build reliable, real‑world AI systems—planning, execution, validation, decision‑making, guardrails, and recovery.
