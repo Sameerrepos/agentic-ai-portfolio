@@ -2,7 +2,7 @@
 ## 📂 Projects
 
 ### ✅ Project 1: AI Task Automation Agent
-[Open Project →](./langgraph-task-automation-agent/)
+(https://github.com/Sameerrepos/langgraph-task-automation-agent/)
 
 ---
 
