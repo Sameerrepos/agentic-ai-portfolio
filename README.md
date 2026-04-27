@@ -7,12 +7,12 @@
 ---
 
 ### ✅ Project 2: AI Decision-Making Agent
-[Open Project →](./langgraph-decision-making-agent/)
+(https://github.com/Sameerrepos/langgraph-decision-making-agent/)
 
 ---
 
 ### ✅ Project 3: Reliable AI Assistant with Guardrails
-[Open Project →](./langgraph-reliable-ai-assistant/)
+(https://github.com/Sameerrepos/langgraph-reliable-ai-assistant/)
 
 Focuses on validation-first AI assistants with self-correction and guardrails.
 🧠 Agentic AI Systems Portfolio (LangGraph)
