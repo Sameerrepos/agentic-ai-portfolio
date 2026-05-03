@@ -1,5 +1,4 @@
 # 🧠 Agentic AI Portfolio — LangGraph + RAG + Guardrails
-
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Stateful%20Workflows-green.svg)
 ![RAG](https://img.shields.io/badge/RAG-FAISS%20Vector%20Search-orange.svg)
@@ -97,6 +96,7 @@ flowchart TD
 - Citations/sources for traceability
 - Validator checks relevance + grounding
 - Retry goes back to retriever (stronger than retrying responder only)
+<img width="1784" height="2268" alt="Mermaid-preview" src="https://github.com/user-attachments/assets/3fdf914f-ffb6-4c33-806b-2c82c57a91ff" />
 
 ---
 
