@@ -39,14 +39,8 @@ Retriever(FAISS) → Responder(LLM) → Validator → [VALID → END | INVALID �
 ```
 
 ### Mermaid Diagram (GitHub renders this)
-```mermaid
-flowchart TD
-  A[START] --> B[Retriever (FAISS)]
-  B --> C[Responder (LLM)]
-  C --> D[Validator (VALID/INVALID)]
-  D -->|VALID| E[END]
-  D -->|INVALID & retries left| B
-```
+<img width="1284" height="1868" alt="Mermaid-preview" src="https://github.com/user-attachments/assets/3fdf914f-ffb6-4c33-806b-2c82c57a91ff" />
+
 
 ---
 
@@ -96,7 +90,6 @@ flowchart TD
 - Citations/sources for traceability
 - Validator checks relevance + grounding
 - Retry goes back to retriever (stronger than retrying responder only)
-<img width="1784" height="2268" alt="Mermaid-preview" src="https://github.com/user-attachments/assets/3fdf914f-ffb6-4c33-806b-2c82c57a91ff" />
 
 ---
 
