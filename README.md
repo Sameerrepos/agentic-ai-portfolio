@@ -185,6 +185,6 @@ python RAG_final.py
 
 ## 📫 Connect
 - GitHub: https://github.com/Sameerrepos  
-- LinkedIn: (add your LinkedIn link here)
+- LinkedIn:(https://www.linkedin.com/in/shaiksameer9603211437/)
 
 ✅ Thanks for checking out my work!
