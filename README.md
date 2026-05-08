@@ -167,22 +167,6 @@ python RAG_final.py
 
 ---
 
-## 📌 Recommended Pin Order (GitHub Profile)
-1) RAG Assistant (FAISS + Guardrails)  
-2) Task Automation Agent  
-3) Decision‑Making Agent  
-4) Reliable AI Assistant (Guardrails)  
-
----
-
-## 🗺️ Roadmap (Optional Enhancements)
-- Add reranking (improve retrieval quality)
-- Add structured evaluation (simple test suite)
-- Persist FAISS index + caching improvements
-- Add a small UI demo (Streamlit) after core stability
-
----
-
 ## 📫 Connect
 - GitHub: https://github.com/Sameerrepos  
 - LinkedIn:(https://www.linkedin.com/in/shaiksameer9603211437/)
