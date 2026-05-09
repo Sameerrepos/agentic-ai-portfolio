@@ -80,7 +80,7 @@ Retriever(FAISS) → Responder(LLM) → Validator → [VALID → END | INVALID �
 ---
 
 ### ✅ Project 4 — RAG Assistant (LangGraph + FAISS + Guardrails)  
-**Focus:** Retrieval-grounded answers with citations + validation + retry  
+**Focus:** LangGraph RAG assistant with FAISS retrieval, guardrails, retry logic, citations, FastAPI backend, and Dockerized deployment.
 **Repo:** https://github.com/Sameerrepos/RAG
 
 **Highlights**
